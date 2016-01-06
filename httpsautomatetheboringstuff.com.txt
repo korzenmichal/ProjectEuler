@@ -1,2 +1,0 @@
-http://interactivepython.org/runestone/static/pythonds/index.html
-httpsautomatetheboringstuff.com.txt
